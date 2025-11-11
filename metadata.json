@@ -1,0 +1,5 @@
+{
+  "name": "Doraemon Animated Film Generator",
+  "description": "An application to generate short animated video clips for a Doraemon film script using the Gemini API. Each scene from the script can be turned into a video with the power of Veo.",
+  "requestFramePermissions": []
+}
